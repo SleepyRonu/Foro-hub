@@ -1,6 +1,4 @@
-# Foro-hub
-Challenge back-end alura
-
+<h1>ForoHub API with Java Spring</h1>
 
 <p>This project was made during AluraLatam course: REST API using Java and Spring. It allows management of questions, answers, and user authentication with JWT.</p>
 
